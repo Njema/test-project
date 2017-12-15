@@ -1,0 +1,25 @@
+body{
+	background-color:#f7f7f7;
+}
+.header{
+	background-image: url( " coffee.jpeg");
+	height:500px;
+	background-position: center center;
+}
+h1{
+	font-family: 'Covered By Your Grace',sans-serif;
+	font-size :100px;
+	line-height: 76px;
+	margin: 0px;
+	position: relative;
+	text-align: center;
+	top: 30%;
+	color: rgba(2,93,140,0.9);
+
+}
+ h2{
+ 	color: #e4bb97;
+ 	font-family: 'Raleway', sans-serif;
+ 	font size: 28px;
+ 	font-weight: 500;
+ }
